@@ -1,5 +1,5 @@
-JavaFX Hello World Demo
-=======================
+JavaFX Run Later Demo
+=====================
 
-Show a window with `Hello, JavaFX` label.
+Do some simple task later, like `requestFocus`, after UI rendering.
 
